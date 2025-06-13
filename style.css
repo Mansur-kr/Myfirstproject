@@ -1,0 +1,45 @@
+.diva{
+    background-color: rgb(3, 255, 58);
+    text-align: center;
+    color: white;
+}
+.anketa{
+    background-color: rgb(216, 214, 214);
+}
+.input3{
+    height: 50px;
+    width: 30%;
+}
+.input1{
+    width: 30%;
+}
+.input2{
+    width: 30%;
+}
+.button{
+    background-color: rgb(17, 200, 17);
+    width: 10%;
+}
+.img{
+    height: 400px;
+}
+table{
+    background-color: grey;
+    width: 100%;
+    
+}
+.th1{
+    background-color: white;
+    font-weight: normal;
+}
+.th{
+    background-color: white;
+}
+.divan{
+    background-color: rgb(203, 203, 203);
+}
+.p{
+    text-align: center;
+    background-color: rgb(52, 52, 52);
+    color: white;
+}
